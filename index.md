@@ -2,7 +2,7 @@
 
 Hi, my name is Alexander Linebarger, but you can call me Alec. This is a very rough draft of my final GitHub page, so please take it easy. You can access, if you like, my [LinkedIn](https://www.linkedin.com/in/alexander-linebarger-67946a116/) and my [GitHub profile](https://github.com/alinebarger7/) if you want to know more about me.
 
-![image](.2/)here's a picture of me.
+![image](/images/2/)here's a picture of me.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
