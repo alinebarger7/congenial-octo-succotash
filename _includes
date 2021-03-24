@@ -1,0 +1,6 @@
+<iframe src="https://www.youtube.com/embed/{{ include.https://www.youtube.com/watch?v=3vITFQeeAqY }}" 
+    width="560" 
+    height="315"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
