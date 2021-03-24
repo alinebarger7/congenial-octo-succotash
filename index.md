@@ -1,10 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to my site
 
-You can use the [LinkedIn](https://www.linkedin.com/in/alexander-linebarger-67946a116/) and my [GitHub profile](https://github.com/alinebarger7/) to maintain and preview the content for your website in Markdown files.
+Hi, my name is Alexander Linebarger, but you can call me Alec. This is a very rough draft of my final GitHub page, so please take it easy. You can access, if you like, my [LinkedIn](https://www.linkedin.com/in/alexander-linebarger-67946a116/) and my [GitHub profile](https://github.com/alinebarger7/) if you want to know more about me.
+
+![image](/location/)here's a picture of me.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Creations
+
+I have created several projects; the most notable of which are listed below.
+
+- [Bus Tracker](https://github.com/alinebarger7/bustracker)
+- [Pacmen](https://github.com/alinebarger7/pacman)
+- [Eyetracker](https://github.com/alinebarger7/eyetracker)
+- [The Rest](https://github.com/alinebarger7?tab=repositories)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
