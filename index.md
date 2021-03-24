@@ -15,3 +15,8 @@ I have created several projects; the most notable of which are listed below.
 - [Pacmen](https://github.com/alinebarger7/pacman)
 - [Eyetracker](https://github.com/alinebarger7/eyetracker)
 - [The Rest](https://github.com/alinebarger7?tab=repositories)
+
+
+#### And the video:
+
+{% include youtubePlayer.html id=page.https://www.youtube.com/watch?v=3vITFQeeAqY %}
